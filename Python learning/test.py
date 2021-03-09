@@ -1,8 +1,8 @@
 age = input("Please tell your age: ")
-if age >= "15":
-    print("Welcome to Messenger")
+if age >= "13":
+    print("Welcome to Discord")
 else:
-    print("I'm sorry, but your age is not allowed to use Messenger")
+    print("I'm sorry, but your age is not allowed to use Discord")
     
 no = input("How old are you? ")
 year = int(no) - 1
