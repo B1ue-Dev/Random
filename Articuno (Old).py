@@ -101,4 +101,4 @@ async def kick(ctx, member : discord.Member, *, reason = None):
     await ctx.channel.send(embed=message)
     await member.kick(reason = reason)
 
-client.run('Sheesh')
+client.run('Sheesh!')
