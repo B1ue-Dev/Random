@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//Please ignore this!
-
 int main()
 {
     int n;
@@ -15,5 +13,8 @@ int main()
         cout << "a[" << i << "]= ";
         cin >> a[i];
     }
+    cout << "\nXuat mang: " << endl;
+    for (int i=1; i<=n; i++)
+        cout << a[i] << " ";
     return 0;
 }
