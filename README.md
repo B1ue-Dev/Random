@@ -1,7 +1,9 @@
 # Random thing
 
-- Well, this place is just for storing some of my random files.
-- What do you expect?
-- You should not check them, as they are all bad. Thank you.
-- Just, do not take this as a reason to make fun of me. Thank you.
-- And again, stay away.
+- A collection of random code that I made.
+- Some of them are for education purposes. I do have a life on school.
+- What?
+- Again, stay away from this repository.
+- It was not meant to be public but since my friends do want to look up for example, that is why.
+- Again, please do not check any of them.
+- As always, thank you.
