@@ -6,6 +6,7 @@ int main()
 {
 	// Exercise: Create a program that take value a, b and c
 	// to solve this: ax^2 + bx + c = 0
+
 	int a, b, c, delta;
 	cout << "Chuong trinh giai ax^2 + bx + c = 0" << endl;
 	cout << endl;

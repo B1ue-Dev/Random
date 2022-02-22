@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
-// Create a function that list all the prime numbers in a given range
+
+// Create a program that list all the prime numbers in a given range
+
 int main()
 {
 	int x, y, count = 0;

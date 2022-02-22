@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Array exercises
+
 int main()
 {
 	int n;
