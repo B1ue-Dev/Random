@@ -17,26 +17,18 @@ Sample Output 1: 1 2 5 10
 
 int main()
 {
-	int N, spt = 0, mang = 0; 
+	int N;
 	cin >> N;
 
-	for (int i = 1; i <= N; i++) {
+	for (int i = 1; i <= N/2; i++) {
 		if (N % i == 0) {
-			spt++;
+			cout << i << " ";
 		}
 	}
+	cout << N;
 
-	int a[spt];
-	for (int i = 1; i <= N; i++) {
-		if (N % i == 0) {
-			mang += 1;
-			a[mang] = i;
-		}
-	}
 
-	for (int i = 1; i <= spt; i++) {
-		cout << a[i] << " ";
-	}
+
 
 	return 0;
 }
