@@ -22,13 +22,13 @@ int main()
 	int N, cnt = 0;
 	cin >> N;
 
-	for (int i = 1; i <= N; i++) {
+	for (int i = 1; i <= N/2; i++) {
 		if (N % i == 0) {
 			cnt++;
 		}
 	}
 	
-	cout << cnt;
+	cout << cnt+1;
 
 	return 0;
 }
