@@ -25,7 +25,7 @@ int main()
 			cout << i << " ";
 		}
 	}
-	cout << N;
+	cout << N+1;
 
 
 
