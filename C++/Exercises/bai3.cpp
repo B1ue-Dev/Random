@@ -1,6 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-
 
 /*
 Viết chương trình nhập vào số nguyên n (n≤107). In ra tất cả các ước số của n. (Ước số của n là các số nguyên mà n chia hết)
@@ -14,7 +13,6 @@ Sample Input 1: 10
 Sample Output 1: 1 2 5 10
 */
 
-
 int main()
 {
 	int N;
@@ -25,10 +23,7 @@ int main()
 			cout << i << " ";
 		}
 	}
-	cout << N+1;
-
-
-
+	cout << N;
 
 	return 0;
 }
