@@ -1,6 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-
 
 /*
 Viết chương trình nhập vào số nguyên n (n≤109). In ra số lượng ước số của n. (Ước số của n là các số nguyên mà n chia hết)
@@ -15,7 +14,6 @@ In ra số lượng ước số của n.
 Sample Input 1: 10
 Sample Output 1: 4
 */
-
 
 int main()
 {

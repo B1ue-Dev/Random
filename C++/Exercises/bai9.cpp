@@ -1,6 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-
 
 /*
 Trong số học, số phong phú là các số mà tổng các ước số của số đó (không kể chính nó) lớn hơn số đó. Ví dụ, số 12 có tổng các ước số (không kể 12) là 1+2+3+4+6=16>12. Do đó 12 là một số phong phú.
@@ -18,7 +17,6 @@ Sample Input 1:
 Sample Output 1: 9
 Giải thích: Từ 1 đến 50 có 9 số phong phú là: 12,18,20,24,30,36,40,42,48
 */
-
 
 bool kiemtra(int j)
 {

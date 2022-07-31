@@ -1,6 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-
 
 /*
 Ký hiệu D(n) là số lượng ước số của số tự nhiên n, ví dụ: D(10)=4 và D(12)=6. Với L và R cho trước (L≤R), hãy tính tổng D(L)+D(L+1)+...+D(R−1)+D(R).
@@ -22,8 +21,6 @@ Output:
 35
 5
 */
-
-
 
 int main()
 {
